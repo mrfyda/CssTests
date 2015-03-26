@@ -4,12 +4,13 @@ body {
 }
 
 .myClass {
-	background-colour: white;
+	background-color: white;
 }
 
 .white-spacer {
 	color: white;
 	border: 1;
+	myFile: 3
 }
 
 .clear-both {
