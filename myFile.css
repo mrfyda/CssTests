@@ -11,4 +11,8 @@ body {
 	clear: both;
 	yack: 2
 }
- 
+
+.white-spacer {
+	color: white;
+	border: 1;
+}
