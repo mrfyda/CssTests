@@ -20,7 +20,7 @@ function a(x) {
     }
 }
 
-function a(x) {
+function b(x) {
   if (true) {
     return x;
   } else if (false) {
