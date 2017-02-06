@@ -1,3 +1,7 @@
 .classy {
   vertical-align: middle;
 }
+
+.nasty {
+  vertical-align: bottom;
+}
