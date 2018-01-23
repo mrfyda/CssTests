@@ -33,3 +33,7 @@ function b(x) {
     return 6;
   }
 }
+
+var snake_cake = 'single'
+var camelCase = "double"
+
