@@ -34,6 +34,11 @@ function b(x) {
   }
 }
 
-var snake_cake = 'single'
-var camelCase = "double"
+var snake_cake = 'single';
+var camelCase = "double";
+
+var obj = {
+    snake_case : 1,
+    camelCase : 2
+};
 
