@@ -1,4 +1,4 @@
-function a(x) {
+function b(x) {
     if (true) {
         return x; // 1st path
     } else if (false) {
